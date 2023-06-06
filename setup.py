@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
     requirements = f.read()
 
 setup(
-    name="pypiano",
+    name="pypiano2",
     version="0.1.0",
     description="Library to programmatically play piano",
     long_description=readme,
